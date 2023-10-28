@@ -11,3 +11,7 @@ Now learning related to
  3. Git Add
  4. Git Commit
  5. Git Push
+
+## Local Branch 
+
+Created a new branch in the local
